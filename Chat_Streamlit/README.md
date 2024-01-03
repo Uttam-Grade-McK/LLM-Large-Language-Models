@@ -30,7 +30,9 @@ Generate Output:
 Click the "Generate" button to unleash PaLM's creativity!
 ## Demo:
 
-Image: <img width="935" alt="Chat_Streamlit" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models-/assets/47376167/4fc7e2d6-ad89-4fa0-8e3a-b0012d6f215c">
+Image: 
+
+<img width="935" alt="Chat_Streamlit" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models-/assets/47376167/4fc7e2d6-ad89-4fa0-8e3a-b0012d6f215c">
 
 Running Video: 
 
@@ -45,7 +47,9 @@ Just build it and left hand side into the side bar we have multiple parameters t
 ## Technical Details:
 
 Model: PaLM (540B parameters)
+
 Framework: VSCode
+
 Deployment: Local Server
 
 ## Explore the Possibilities:
