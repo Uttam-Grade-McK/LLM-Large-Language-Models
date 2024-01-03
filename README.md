@@ -22,7 +22,7 @@ Resources:
 
 Clone the Repository:
 Bash
-git clone https://github.com/Uttam-Grade_McK/LLM-Playground
+git clone https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models-.git
 Use code with caution. Learn more
 Explore:
 Dive into the Models directory to learn about different LLMs.
