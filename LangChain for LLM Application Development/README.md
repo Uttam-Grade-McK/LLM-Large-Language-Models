@@ -42,6 +42,27 @@ If we have to control the randomness and creativity of the generated text by an 
 <img width="478" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/b61c04ec-5296-4765-9bd5-bafcbe4317c5">
 
 
+# LLM Documentation
+
+<img width="304" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/b2a39cdb-4344-4c6c-ac60-5a182b22520b">
+
+# Embedding in Langchain
+
+<img width="442" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/a564035b-8b86-4421-b0b7-aed7474963b6">
+
+<img width="423" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/0045457e-97d9-4f8c-8a32-7168746e4130">
+
+# Stuff Method in LLM (to get all the input in Langchain at the same time)
+
+<img width="398" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/7c967d61-6b60-4752-b962-9487af3d7e50">
+
+<img width="442" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/353bfafd-c15c-4805-b62a-a7559b7a2a7a">
+
+
+
+
+
+
 
 
 
