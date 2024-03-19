@@ -23,5 +23,9 @@ Something regarding LangChain
 # Note
 If we have to control the randomness and creativity of the generated text by an LLM use # Temperature = 0.0
 
+# How Langchain stores information
+
+<img width="385" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/dc746673-c1b7-4ed1-876c-af440bcca2e2">
+
 
 
