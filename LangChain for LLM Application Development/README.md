@@ -33,6 +33,11 @@ If we have to control the randomness and creativity of the generated text by an 
 
 <img width="390" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/af6e3a2b-2852-418a-a020-1653566b0c0b">
 
+# LLM Chains (Sequential)
+
+<img width="381" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/c26b5783-0de1-447b-9e78-46af9de901af">
+
+
 
 
 
