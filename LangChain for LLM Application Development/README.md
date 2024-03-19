@@ -37,6 +37,12 @@ If we have to control the randomness and creativity of the generated text by an 
 
 <img width="381" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/c26b5783-0de1-447b-9e78-46af9de901af">
 
+<img width="480" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/225a7a7f-ad6d-48d1-9dfa-1496d2d0c310">
+
+<img width="478" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/b61c04ec-5296-4765-9bd5-bafcbe4317c5">
+
+
+
 
 
 
