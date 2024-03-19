@@ -29,3 +29,10 @@ If we have to control the randomness and creativity of the generated text by an 
 
 
 
+# Memory types
+
+<img width="390" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/af6e3a2b-2852-418a-a020-1653566b0c0b">
+
+
+
+
