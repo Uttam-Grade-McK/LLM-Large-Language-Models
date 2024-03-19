@@ -20,4 +20,8 @@ Something regarding LangChain
 
 <img width="468" alt="image" src="https://github.com/Uttam-Grade-McK/LLM-Large-Language-Models/assets/47376167/fe03b201-468f-43b1-a043-a7bb57d576b6">
 
+# Note
+If we have to control the randomness and creativity of the generated text by an LLM use # Temperature = 0.0
+
+
 
