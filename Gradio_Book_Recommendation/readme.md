@@ -1,6 +1,9 @@
 
 # Content-Based Book Recommender
 
+![Alt Text](/github_image.png)
+
+
 This project implements a basic content-based book recommender system using Python. It takes a book title as input and recommends 5 similar books based on textual attributes such as summaries.
 
 ## Features
